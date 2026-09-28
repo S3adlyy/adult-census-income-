@@ -1,4 +1,4 @@
-# 🎓 Adult Education Prediction
+#  Adult Education Prediction
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>📊 Machine Learning project for predicting education level using the Adult Dataset.</strong>
+  <strong> Machine Learning project for predicting education level using the Adult Dataset.</strong>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project applies a complete **Data Science and Machine Learning workflow** to the **Adult Dataset**.
 
@@ -30,18 +30,18 @@ The main objective is to build a model capable of predicting an individual's **e
 
 The problem is formulated as a:
 
-> 🎯 **Multiclass Classification problem**
+>  **Multiclass Classification problem**
 
 Two machine-learning approaches are considered:
 
-* 🌳 **Decision Tree**
-* 🌲 **Random Forest**
+*  **Decision Tree**
+*  **Random Forest**
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
-### 💼 Business Objective
+###  Business Objective
 
 > **Predict the education level of an individual.**
 
@@ -51,7 +51,7 @@ The target variable is:
 education
 ```
 
-### 🤖 Data Science Objective
+###  Data Science Objective
 
 | Component    | Description                       |
 | ------------ | --------------------------------- |
@@ -63,7 +63,7 @@ education
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 The project uses the **Adult Dataset**.
 
@@ -73,11 +73,11 @@ The dataset contains:
 
 <div align="center">
 
-### 📈 32,561
+###  32,561
 
 **Rows**
 
-### 📊 15
+###  15
 
 **Columns**
 
@@ -85,7 +85,7 @@ The dataset contains:
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 The project follows a structured Data Science pipeline:
 
@@ -157,7 +157,7 @@ The complete preparation process documented in the project includes data loading
 
 ---
 
-# 🔬 Data Preparation
+# Data Preparation
 
 ## 1️⃣ Data Loading
 
@@ -235,13 +235,13 @@ The project therefore includes a dedicated **transformation and encoding** stage
 
 ---
 
-## 📏 Normalization
+##  Normalization
 
 Normalization is applied during the data-preparation process to transform numerical features to a comparable scale where appropriate.
 
 ---
 
-## 🔥 Correlation Matrix
+##  Correlation Matrix
 
 A correlation matrix is generated to analyze relationships between variables.
 
@@ -249,7 +249,7 @@ It is also used as part of the process of identifying relevant features.
 
 ---
 
-## 🎯 Feature Selection
+##  Feature Selection
 
 Feature selection is performed to identify the characteristics that are relevant to the prediction problem.
 
@@ -261,11 +261,11 @@ education
 
 ---
 
-# 🤖 Models
+#  Models
 
 The project uses two Machine Learning approaches for the multiclass classification task.
 
-## 🌳 Decision Tree
+##  Decision Tree
 
 A **Decision Tree** is used to perform multiclass classification.
 
@@ -300,7 +300,7 @@ Both algorithms are identified in the project as the models for the multiclass c
 
 ---
 
-# 🗂️ Project Structure
+#  Project Structure
 
 A possible organization for the project is:
 
@@ -330,7 +330,7 @@ Adult-Education-Prediction/
 
 ---
 
-# 🛠️ Technologies
+#  Technologies
 
 <p align="center">
 
@@ -344,15 +344,15 @@ Adult-Education-Prediction/
 
 | Technology      | Purpose              |
 | --------------- | -------------------- |
-| 🐍 Python       | Programming language |
-| 🐼 Pandas       | Data manipulation    |
-| 🔢 NumPy        | Numerical operations |
-| 📊 Matplotlib   | Data visualization   |
-| 🤖 Scikit-learn | Machine Learning     |
+|  Python       | Programming language |
+|  Pandas       | Data manipulation    |
+|  NumPy        | Numerical operations |
+|  Matplotlib   | Data visualization   |
+|  Scikit-learn | Machine Learning     |
 
 ---
 
-# 📋 Project Steps
+#  Project Steps
 
 |  # | Step                      | Status |
 | -: | ------------------------- | :----: |
@@ -375,9 +375,9 @@ The first twelve stages correspond to the workflow documented in the project PDF
 
 ---
 
-# 📈 Results
+#  Results
 
-> ⚠️ **Note:** The current project documentation does not provide final model-performance metrics such as accuracy, precision, recall, F1-score or AUC. These should be added after the models are trained and evaluated.
+>  **Note:** The current project documentation does not provide final model-performance metrics such as accuracy, precision, recall, F1-score or AUC. These should be added after the models are trained and evaluated.
 
 Recommended evaluation section:
 
@@ -390,35 +390,23 @@ Random Forest         --          --          --         --
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Possible future additions to the project include:
 
-* 📊 Add model evaluation metrics
-* 🔥 Add confusion matrices
-* 📈 Compare Decision Tree and Random Forest results
-* 🎯 Analyze feature importance
-* ⚙️ Perform hyperparameter tuning
-* 📉 Add ROC/AUC analysis where appropriate
-* 💾 Save the trained model
-* 🌐 Build a small prediction interface
+*  Add model evaluation metrics
+*  Add confusion matrices
+*  Compare Decision Tree and Random Forest results
+*  Analyze feature importance
+*  Perform hyperparameter tuning
+*  Add ROC/AUC analysis where appropriate
+*  Save the trained model
+*  Build a small prediction interface
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ### Wassim Saadli
 
-🎓 Computer Science Engineering Student
-🐍 Data Science & Machine Learning
-☁️ Cloud & DevSecOps
-
 ---
-
-<p align="center">
-
-### ⭐ If you find this project useful, consider giving it a star!
-
-**Built with Python • Data Science • Machine Learning**
-
-</p>
